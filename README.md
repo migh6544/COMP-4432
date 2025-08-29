@@ -7,13 +7,12 @@ prepared data. Both design principles (machine learning types and tasks) and tec
 tools/languages will be covered.
 
 ##### Objectives:
-• Distinguish between supervised and unsupervised machine learning algorithms.
-• Pre-process data and feature engineer to meet modeling requirements.
-• Select and employ appropriate Python libraries for training, testing, and validation of
-parametric and nonparametric predictive models.
-• Employ appropriate strategies to mitigate model overfitting and underfitting.
-• Optimize models via. hyperparameter selection and tuning.
-• Articulate the differences between ensemble and boosting algorithms.
-• Evaluate model results using appropriate objective functions.
-• Describe the strengths, limitations and tradeoffs of a given model.
-• Present model results.
+-  Distinguish between supervised and unsupervised machine learning algorithms.
+-  Pre-process data and feature engineer to meet modeling requirements.
+-  Select and employ appropriate Python libraries for training, testing, and validation of parametric and nonparametric predictive models.
+-  Employ appropriate strategies to mitigate model overfitting and underfitting.
+-  Optimize models via. hyperparameter selection and tuning.
+-  Articulate the differences between ensemble and boosting algorithms.
+-  Evaluate model results using appropriate objective functions.
+-  Describe the strengths, limitations and tradeoffs of a given model.
+-  Present model results.
