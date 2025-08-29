@@ -6,7 +6,7 @@ popular machine learning libraries to develop, train, evaluate, and deploy predi
 prepared data. Both design principles (machine learning types and tasks) and technical
 tools/languages will be covered.
 
-Objectives:
+##### Objectives:
 • Distinguish between supervised and unsupervised machine learning algorithms.
 • Pre-process data and feature engineer to meet modeling requirements.
 • Select and employ appropriate Python libraries for training, testing, and validation of
